@@ -14,7 +14,7 @@ Vlaamsewebwinkel is een plaats waar alle vlaamse online winkels zich kunnen op a
 # CDN gebruiken
 Sneller Vlaamsewebwinkel inladen?
 Gebruik dan onderstaande link om vlaamsewebwinkel.js in te laden.
-https://cdn.jsdelivr.net/gh/Vlaamsewebwinkel/Label@0.9.2/vlaamsewebwinkel.min.js
+https://cdn.jsdelivr.net/gh/Vlaamsewebwinkel/Label@0.9.2.5/vlaamsewebwinkel.min.js
 
 # Code
 
@@ -33,13 +33,13 @@ html
 javascript
 ```javascript
 $( document ).ready(function() {
-  var vww = new VWW("1234567890","vlaamsewebwinkellabel","1","id");
+  var vww = new VWW("websitenaam","vlaamsewebwinkellabel","1","id");
   vww.createlabel();
 });
 ```
 
 # Waarbij de functie VWW volgende elementen bevat
-* Website ID ter controle
+* Websitenaam ter controle
 * De naam van het element
 * Ontwerp nummer van label dat je gekozen hebt.
 * plaats je het in een html element met class of id
