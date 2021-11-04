@@ -16,7 +16,7 @@ Vlaamsewebwinkel is een plaats waar alle vlaamse online winkels zich kunnen op a
 # CDN gebruiken
 Sneller Vlaamsewebwinkel inladen?
 Gebruik dan onderstaande link om vlaamsewebwinkel.js in te laden.
-https://cdn.jsdelivr.net/gh/Vlaamsewebwinkel/Label@1.0.°/vlaamsewebwinkel.min.js
+https://cdn.jsdelivr.net/gh/Vlaamsewebwinkel/Label@1.0.0/vlaamsewebwinkel.min.js
 
 # Code
 
